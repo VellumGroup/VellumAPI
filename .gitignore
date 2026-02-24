@@ -205,3 +205,26 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# --- Vellum specific ---
+
+# Stripe
+stripe_events.json
+
+# Runtime data
+data/
+storage/
+
+# Logs
+logs/
+*.log
+
+# WebSocket state / temp
+tmp/
+cache/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+PLAN.md
