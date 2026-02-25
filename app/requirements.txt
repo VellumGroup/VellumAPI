@@ -1,0 +1,8 @@
+ruff
+pytest
+fastapi
+uvicorn[standard]
+supabase
+stripe
+pydantic
+websockets
